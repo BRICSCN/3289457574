@@ -21,7 +21,7 @@
 - [Project solution](#Project-solution)
 - [Advantage and innovation](#Advantage-and-innovation)
 ---
-## Team members[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#Team members)
+## Team members[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#Usage-modes)
 
 
 
