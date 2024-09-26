@@ -20,13 +20,10 @@
 - [Problems to solve](#Problems-to-solve)
 - [Project solution](#Project-solution)
 - [Advantage and innovation](#Advantage-and-innovation)
-- [1234](#1234)
 ---
 ## Team members[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#Team members)
 
-Nowadays, **swarms of drones** are getting more and more applications and being used in several different areas, from agriculture to surveillance and rescues. But controlling a high amount of drones isn't a simple task, demanding a lot of studies and complex software.
 
-Swarm in Blocks (from it's origin in 2022) was born looking to make a *high-level interface based on the blocks language*, to make simple handling swarms, without requiring advanced knowledge in all the necessary platforms, creating tools to allow a lot of applications based on the user needs and also using the Clover platform.
 
 In 2023, Swarm in Blocks has taken an even bigger step, looking to fulfill our biggest vision **"It's never been easier to Swarm"**, we talk to transcend the local scope of the past project and explore the biggest problems for implementing a Swarm. For Copterhack 2023, we present Swarm in Blocks 2.0, an even more complete platform with the purpose of facing the biggest difficulties of a Swarm in a simple and polished way.
 
@@ -34,11 +31,11 @@ In 2023, Swarm in Blocks has taken an even bigger step, looking to fulfill our b
     <img width="600" src="https://github.com/BRICSCN/3289457574/blob/main/12/xinjian/%E5%A4%B1%E7%81%AB.gif" />
 </p>
 
-### Swarm in Blocks 2022
+### Swarm in Blocks 2024
 
 
 
-Swarm in Blocks is a CopterHack 2022 project. It's a high-level interface based on the blocks language, which consists of fitting code parts, like a puzzle. Each script represents a functionality, for example, conditional structures, loops, or functions that receive parameters and return an instruction to the swarm. 
+Swarm in Blocks is 
 
 <p align="center">
     <img width="500" src="https://github.com/Grupo-SEMEAR-USP/swarm_in_blocks/blob/master/assets/intro/blocksIDE.gif" />
@@ -51,25 +48,18 @@ Swarm in Blocks is a CopterHack 2022 project. It's a high-level interface based 
 
 For more information on our project from last year, see our final article in [Swarm in Blocks 2022](https://clover.coex.tech/en/swarm_in_blocks.html). In addition, we also recommend watching our final video from last year, [Swarm in Blocks 2022 - Final Video](https://www.youtube.com/watch?v=5C-1rRnyiE8).
 
-Even with the huge facilities that the block platform offers, we realized that this was just the *tip of the iceberg* when it comes to deploying real swarms. Several other operational and conceptual problems in validating a real swarm still haunted the general public. With that, this year's project comes precisely with the purpose of **tackling the main problems in validating a Swarm in a simple and polished way**.
 
 
 ### What's new
 
 
-As already mentioned, of the various problems that can increase the complexity of a real swarm, we decided to deal with the ones that most afflicted us and reintegrated our solutions into our central platform, building a single extremely complete and cohesive platform.
+
 
 | Problem | Our Solution |
 | -------- | -------- |
-| Possible collision between drones (lack of safety especially for large Swarms)  | Collision Avoidance System  |
-| Giant clutter to keep track of all Clovers in a swarm individually (several terminals, many simulateneous computers with several people to keep track of)  | Swarm Station  |
-| Lack of basic features for handling a swarm pre-implemented in the Clover platform (such as access to battery data and raspberry computational power)  | Full integration of low level data in our Swarm Station  |
-| Lack of security in indoor tests regarding the limitation of physical space (walls and objects) in the Swarm region  | Safe Area Pop Up in Swarm Station  |
-| Decentralization of information and platforms for access  | Web Homepage  |
-| Difficulty configuring physical drones for swarm  | Our complete documentation with pre-designed settings for swarms in our repo image  |
-| Lack of a center for reports of successful tests with swarms of drones for the Clover platform describing the test conditions (odometry, etc.)  | Show off section in our Gitbook  |
 
-And many other solutions are also featured on our platform, for more information please check the solutions described clearly and in detail throughout our **Gitbook**. We recommend reading in order to understand the fundamental precepts of our platform. 
+
+
 
 > 📖 **Acess our [Gitbook](https://app.gitbook.com/s/C9O11TiXK1JPnlrpilLg/background-theory/system)!**
 
@@ -81,7 +71,7 @@ And many other solutions are also featured on our platform, for more information
 
 
 
-Our platform was made to be extremely intuitive and easy to use. To start (after completing the installation we suggested in our gitbook), you can run the command: 
+
 
     roslaunch swarm_in_blocks simulation.launch num:=2 
 
@@ -98,8 +88,7 @@ The Swarm in Blocks can be programmed either with the blocks interface or direct
 
 
 - *Planning Mode:* Its main goal is to allow the user to check the drones' layout, save and load formations, before starting the simulator or using real clovers. In order to need less computational power and avoid possible errors during the simulation.
-- *Simulation Mode:* In this mode happens the simulation indeed, starting the Gazebo, the necessary ROS nodes and some other tools. It allows applying the developed features, which will be explained ahead and see how they would behave in real life.
-- *Navigation Mode:* The last mode will support executing everything developed in real clovers so that it's possible to control a swarm with block programming. The biggest obstacle yet is the practical testing of this mode, due to the financial difficulty of acquiring a Clover swarm.
+
 
 <div align="right">[ <a href="#table-of-contents">↑ to top ↑</a> ]</div>
 
