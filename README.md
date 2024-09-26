@@ -147,10 +147,8 @@ object locking to track the target at a fixed distance and speed, and keep the t
 
 ## The Atena Team 
 
-Atena Team 2023 (Swarm in Blocks 2.0):
+Aerial Tracking Drone Project Shandong Vocational and Technical College (2024) Team:
 
-
-
-
-In honor of Atena Team 2022:
-
+<p align="center">
+    <img width="900" src="y" />
+</p>
