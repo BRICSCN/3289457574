@@ -65,7 +65,7 @@ For more information on our project from last year, see our final article in [Sw
 Drones can be useful in areas like large supermarkets 、museums and unmanned monitoring of warehouses where there are several threats, including: things lost, fires predicted, and thieves who are difficult to capture.
 
 <p align="center">
-    <img width="600" src="https://github.com/BRICSCN/3289457574/blob/main/12/xinjian/%E8%BF%BD%E8%B8%AA%E6%96%B0%E9%97%BB.gif" />
+    <img width="600" src="https://github.com/BRICSCN/3289457574/blob/main/12/xinjian/%E5%81%B7%E7%9B%97.gif" />
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ Drones can be useful in areas like large supermarkets 、museums and unmanned mo
 </p>
 
 <p align="center">
-    <img width="600" src="https://github.com/BRICSCN/3289457574/blob/main/12/xinjian/%E5%81%B7%E7%9B%97.gif" />
+    <img width="600" src="https://github.com/BRICSCN/3289457574/blob/main/12/xinjian/%E8%BF%BD%E8%B8%AA%E6%96%B0%E9%97%BB.gif" />
 </p>
 
 
