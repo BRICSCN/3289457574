@@ -76,9 +76,6 @@ Drones can be useful in areas like large supermarkets 、museums and unmanned mo
     <img width="600" src="https://github.com/BRICSCN/3289457574/blob/main/12/xinjian/%E8%BF%BD%E8%B8%AA%E6%96%B0%E9%97%BB.gif" />
 </p>
 
-
-<div align="right">[ <a href="#table-of-contents">↑ to top ↑</a> ]</div>
-
 ---
 
 ## Project solution[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#Usage-modes)
