@@ -17,9 +17,9 @@
 
 ## Table of contents[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#table-of-contents)
 - [Team members](#Team-members)
-- [Getting started](#getting-started)
-- [Usage modes](#Usage-modes)
-- [New Swarm Features](#New-Swarm-Features)
+- [Problems to solve](#Problems-to-solve)
+- [Project solution](#Project-solution)
+- [Advantage and innovation](#Advantage-and-innovation)
 - [1234](#1234)
 ---
 ## Team members[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#Team members)
@@ -77,7 +77,7 @@ And many other solutions are also featured on our platform, for more information
 
 ---
 
-## Getting started[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)]
+## Problems to solve[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)]
 
 
 
@@ -91,7 +91,7 @@ After that, you can open your browser and access our homepage by typing `localho
 
 ---
 
-## Usage modes[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#Usage-modes)
+## Project solution[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#Usage-modes)
 
 
 The Swarm in Blocks can be programmed either with the blocks interface or directly in Python and we developed three main launch modes, each one focused on a different application of the project, they are:
@@ -105,7 +105,7 @@ The Swarm in Blocks can be programmed either with the blocks interface or direct
 
 ---
 
-## New Swarm Features[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#New-Swarm-Features)
+## Advantage and innovation[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#New-Swarm-Features)
 
 
 With our vision of solving the problems that most plague the deployment of a real swarm, we have developed several features (and even integrated platforms), below we will list our main developments:
