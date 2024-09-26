@@ -84,10 +84,10 @@ Drones can be useful in areas like large supermarkets 、museums and unmanned mo
 The Swarm in Blocks can be programmed either with the blocks interface or directly in Python and we developed three main launch modes, each one focused on a different application of the project, they are:
 
 <p align="center">
-    <img width="600" src="https://github.com/BRICSCN/3289457574/blob/main/12/tupian/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.png" />
+    <img width="900" src="https://github.com/BRICSCN/3289457574/blob/main/12/tupian/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.png" />
 </p>
 <p align="center">
-    <img width="600" src="https://github.com/BRICSCN/3289457574/blob/main/12/tupian/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%881.png" />
+    <img width="900" src="https://github.com/BRICSCN/3289457574/blob/main/12/tupian/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%881.png" />
 </p>
 
 - *Planning Mode:* Its main goal is to allow the user to check the drones' layout, save and load formations, before starting the simulator or using real clovers. In order to need less computational power and avoid possible errors during the simulation.
