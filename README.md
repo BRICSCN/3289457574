@@ -14,7 +14,9 @@
 
 
 
-In 2023, Swarm in Blocks has taken an even bigger step, looking to fulfill our biggest vision **"It's never been easier to Swarm"**, we talk to transcend the local scope of the past project and explore the biggest problems for implementing a Swarm. For Copterhack 2023, we present Swarm in Blocks 2.0, an even more complete platform with the purpose of facing the biggest difficulties of a Swarm in a simple and polished way.
+Name: Li Xiang
+Role：Software engineer & Pilot
+Responsibilities：Write code for autonomous fligt、multi-objects recognition system、autonomous tracking system and obstacle avoidance system，UAV flight & maintenance。
 
 <p align="center">
     <img width="600" src="https://github.com/BRICSCN/3289457574/blob/main/12/xinjian/%E5%A4%B1%E7%81%AB.gif" />
@@ -59,12 +61,21 @@ For more information on our project from last year, see our final article in [Sw
 ## Problems to solve[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#Usage-modes)
 
 
+- *Project background：*
+Drones can be useful in areas like large supermarkets 、museums and unmanned monitoring of warehouses where there are several threats, including: things lost, fires predicted, and thieves who are difficult to capture.
 
+<p align="center">
+    <img width="600" src="https://github.com/BRICSCN/3289457574/blob/main/12/xinjian/%E8%BF%BD%E8%B8%AA%E6%96%B0%E9%97%BB.gif" />
+</p>
 
+<p align="center">
+    <img width="600" src="https://github.com/BRICSCN/3289457574/blob/main/12/xinjian/%E5%A4%B1%E7%81%AB.gif" />
+</p>
 
-    roslaunch swarm_in_blocks simulation.launch num:=2 
+<p align="center">
+    <img width="600" src="https://github.com/BRICSCN/3289457574/blob/main/12/xinjian/%E5%81%B7%E7%9B%97.gif" />
+</p>
 
-After that, you can open your browser and access our homepage by typing `localhost` in the search bar.
 
 <div align="right">[ <a href="#table-of-contents">↑ to top ↑</a> ]</div>
 
