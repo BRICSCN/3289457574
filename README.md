@@ -145,7 +145,7 @@ object locking to track the target at a fixed distance and speed, and keep the t
 
 ---
 
-## The Atena Team 
+## Collaborative team
 
 Aerial Tracking Drone Project Shandong Vocational and Technical College (2024) Team:
 
