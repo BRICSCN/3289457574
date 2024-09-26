@@ -33,7 +33,11 @@ Swarm in Blocks is
 </p>
 
 <p align="center">
-    <img width="700" src="https://github.com/Grupo-SEMEAR-USP/swarm_in_blocks/blob/master/assets/intro/ring.gif" />
+    <img width="900" src="https://github.com/Grupo-SEMEAR-USP/swarm_in_blocks/blob/master/assets/intro/ring.gif" />
+</p>
+
+<p align="center">
+    <img width="900" src="https://github.com/BRICSCN/3289457574/blob/main/12/tupian/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%882.png" />
 </p>
 
 
