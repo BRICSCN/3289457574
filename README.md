@@ -99,15 +99,90 @@ The Swarm in Blocks can be programmed either with the blocks interface or direct
     <img width="900" src="https://github.com/BRICSCN/3289457574/blob/main/12/tupian/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%883.png" />
 </p>
 
+<p align="center">
+    <img width="900" src="" />
+</p>
 
-- *Planning Mode:* Its main goal is to allow the user to check the drones' layout, save and load formations, before starting the simulator or using real clovers. In order to need less computational power and avoid possible errors during the simulation.
+Use computer vision & optical flow system to
+localize the UAV.
+During the manual test, release the remote
+control and keep the UAV flying steadily at the
+current point.
+
+<p align="center">
+    <img width="900" src="zhengtu" />
+</p>
+
+<p align="center">
+    <img width="900" src="ego" />
+</p>
+
+Planning algorithm for the Ego-Planner path:
+When a trajectory collides with an obstacle during
+the optimisation process, a force is generated on the
+trajectory depending on the collision that pushesthe
+trajectory away from the obstacle.
+
+<p align="center">
+    <img width="900" src="xianshi" />
+</p>
+
+Visual obstacle avoidance
+(VOA)
 
 
-<div align="right">[ <a href="#table-of-contents">↑ to top ↑</a> ]</div>
+<p align="center">
+    <img width="900" src="3dkeshihua" />
+</p>
+
+3D visualization tools in the ROS framework
+RViz
+
+<p align="center">
+    <img width="900" src="d435dan" />
+</p>
+
+
+<p align="center">
+    <img width="900" src="xiangzi" />
+</p>
+
+<p align="center">
+    <img width="900" src="duomubiao" />
+</p>
+
+Use machine learning to improve UAV recognition of multi-target objects
+
+
+
+<p align="center">
+    <img width="900" src="xianshi，zhuixiaoche" />
+</p>
+
+Shooting Angle
+
+<p align="center">
+<img width="900" src="yolo,zhuixiaoche" />
+</p>
+
+Drone View
+
+
+
+Target tracking in the Yolov5 model can be achieved by using the prediction frame's position data and confidence
+level.Use yolov5 algorithm to detect objects in the image, assign a unique ID to each object, and then perform target
+object locking to track the target at a fixed distance and speed, and keep the target in the center of the screen at all times.
 
 ---
 
 ## Advantage and innovation[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#New-Swarm-Features)
+
+
+<p align="center">
+    <img width="900" src="youshi" />
+</p>
+
+
 
 
 With our vision of solving the problems that most plague the deployment of a real swarm, we have developed several features (and even integrated platforms), below we will list our main developments:
