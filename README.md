@@ -1,13 +1,3 @@
-<h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">
-
-<a name="logo" href="https://app.gitbook.com/s/C9O11TiXK1JPnlrpilLg/introduction/swarm-in-blocks">
-<img align="center" src="assets/header/Capa_Swarm_23_banner.png" alt="Swarm in Blocks" style="width:100%;height:100%"/></a>
-
-<br /><br />
-
-<strong>Swarm in Blocks</strong>
-
-</h1>
 
 <!-- markdownlint-disable -->
 ## Project Status[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#project-status)
@@ -21,10 +11,7 @@
 
 </table>
 
-## Final Video ![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=QFKgrqIAO1E&ab_channel=SwarminBlocks" title="Final Video 2023"><img img width="500" height="281" src="https://img.youtube.com/vi/QFKgrqIAO1E/maxresdefault.jpg" /></a>
-</p>
+
 
 ---
 
@@ -35,7 +22,7 @@
 - [New Swarm Features](#New-Swarm-Features)
 - [Conclusion](#Conclusion)
 ---
-
+https://github.com/BRICSCN/3289457574/edit/main/README.md#getting-started
 ## Introduction[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#Introduction)
 
 Nowadays, **swarms of drones** are getting more and more applications and being used in several different areas, from agriculture to surveillance and rescues. But controlling a high amount of drones isn't a simple task, demanding a lot of studies and complex software.
