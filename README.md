@@ -77,7 +77,7 @@ And many other solutions are also featured on our platform, for more information
 
 ---
 
-## Problems to solve[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)]
+## Problems to solve[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#Usage-modes)
 
 
 
