@@ -16,14 +16,13 @@
 ---
 
 ## Table of contents[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#table-of-contents)
-- [Introduction](#Introduction)
+- [Team members](#Team-members)
 - [Getting started](#getting-started)
 - [Usage modes](#Usage-modes)
 - [New Swarm Features](#New-Swarm-Features)
 - [Conclusion](#Conclusion)
 ---
-https://github.com/BRICSCN/3289457574/edit/main/README.md#getting-started
-## Introduction[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#Introduction)
+## Team members[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#Team members)
 
 Nowadays, **swarms of drones** are getting more and more applications and being used in several different areas, from agriculture to surveillance and rescues. But controlling a high amount of drones isn't a simple task, demanding a lot of studies and complex software.
 
@@ -32,7 +31,7 @@ Swarm in Blocks (from it's origin in 2022) was born looking to make a *high-leve
 In 2023, Swarm in Blocks has taken an even bigger step, looking to fulfill our biggest vision **"It's never been easier to Swarm"**, we talk to transcend the local scope of the past project and explore the biggest problems for implementing a Swarm. For Copterhack 2023, we present Swarm in Blocks 2.0, an even more complete platform with the purpose of facing the biggest difficulties of a Swarm in a simple and polished way.
 
 <p align="center">
-    <img width="600" src="https://github.com/Grupo-SEMEAR-USP/swarm_in_blocks/blob/master/assets/intro/clovers_leds.gif" />
+    <img width="600" src="https://github.com/BRICSCN/3289457574/blob/main/12/xinjian/%E5%A4%B1%E7%81%AB.gif" />
 </p>
 
 ### Swarm in Blocks 2022
