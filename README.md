@@ -18,45 +18,6 @@ Name: Li Xiang
 Role：Software engineer & Pilot
 Responsibilities：Write code for autonomous fligt、multi-objects recognition system、autonomous tracking system and obstacle avoidance system，UAV flight & maintenance。
 
-<p align="center">
-    <img width="600" src="https://github.com/BRICSCN/3289457574/blob/main/12/xinjian/%E5%A4%B1%E7%81%AB.gif" />
-</p>
-
-### Swarm in Blocks 2024
-
-
-
-Swarm in Blocks is 
-
-<p align="center">
-    <img width="900" src="https://github.com/Grupo-SEMEAR-USP/swarm_in_blocks/blob/master/assets/intro/blocksIDE.gif" />
-</p>
-
-<p align="center">
-    <img width="900" src="https://github.com/Grupo-SEMEAR-USP/swarm_in_blocks/blob/master/assets/intro/ring.gif" />
-</p>
-
-
-
-For more information on our project from last year, see our final article in [Swarm in Blocks 2022](https://clover.coex.tech/en/swarm_in_blocks.html). In addition, we also recommend watching our final video from last year, [Swarm in Blocks 2022 - Final Video](https://www.youtube.com/watch?v=5C-1rRnyiE8).
-
-
-
-### What's new
-
-
-
-
-| Problem | Our Solution |
-| -------- | -------- |
-
-
-
-
-> 📖 **Acess our [Gitbook](https://app.gitbook.com/s/C9O11TiXK1JPnlrpilLg/background-theory/system)!**
-
-<div align="right">[ <a href="#table-of-contents">↑ to top ↑</a> ]</div>
-
 ---
 
 ## Problems to solve[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#Usage-modes)
