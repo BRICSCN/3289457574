@@ -29,11 +29,11 @@ Responsibilities：Write code for autonomous fligt、multi-objects recognition s
 Swarm in Blocks is 
 
 <p align="center">
-    <img width="500" src="https://github.com/Grupo-SEMEAR-USP/swarm_in_blocks/blob/master/assets/intro/blocksIDE.gif" />
+    <img width="900" src="https://github.com/Grupo-SEMEAR-USP/swarm_in_blocks/blob/master/assets/intro/blocksIDE.gif" />
 </p>
 
 <p align="center">
-    <img width="500" src="https://github.com/Grupo-SEMEAR-USP/swarm_in_blocks/blob/master/assets/intro/ring.gif" />
+    <img width="700" src="https://github.com/Grupo-SEMEAR-USP/swarm_in_blocks/blob/master/assets/intro/ring.gif" />
 </p>
 
 
