@@ -77,7 +77,7 @@ And many other solutions are also featured on our platform, for more information
 
 ---
 
-## Getting started[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#getting-started)
+## Getting started[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)]
 
 
 
